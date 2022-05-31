@@ -1,0 +1,17 @@
+948-555-0100 : Song information
+938-555-0100 : Spawn a Jetmax boat
+625-555-0150 : Spawn a Sanchez bike
+625-555-0100 : Spawn an NRG-900 bike
+486-555-0150 : Weapons 1
+486-555-0100 : Weapons 2
+482-555-0100 : Health, armor, and ammo
+468-555-0100 : Change weather and time of day
+362-555-0100 : Armor
+359-555-0100 : Spawn an Annihilator helicopter
+267-555-0150 : Increase Wanted level
+267-555-0100 : Remove Wanted level
+227-555-0142 : Spawn a Cognoscenti
+227-555-0175 : Spawn a Comet
+227-555-0168 : Spawn a SuperGT
+227-555-0147 : Spawn a Turismo
+227-555-0100 : Spawn an FBI Buffalo

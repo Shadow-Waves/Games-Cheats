@@ -1,0 +1,37 @@
+'Abundance is the dullest desire' : Gives Arthur infinite ammunition Purchase newspaper from Chapter 1 onwards
+'A simple life, a beautiful death' : Gives Arthur a set of Basic Weapons
+'Greed is American virtue' : Gives Arthur a set of Heavy Weapons Purchase newspaper after completing "Advertising, the New American Art" in Chapter 3
+'Death is silence' : Gives Arthur a set of Stealth Weapons
+'History is written by fools' : Gives Arthur the Gunslinger side mission weapons
+'You long for sight and see nothing' : Removes Fog of War from the map Purchase newspaper after completing "Blood Feuds, Ancient and Modern" in Chapter 3
+'Greed is now a virtue' : Gives Arthur $500
+'Vanity. All is vanity' : Instantly unlocks all in-game outfits
+'Eat of knowledge' : Teaches Arthur every crafting recipe
+'Share' : Unlocks every camp upgrade
+'Virtue unearned is not virtue' : Gives Arthur maximum Honor Purchase newspaper after completing "Urban Pleasures" in Chapter 4
+'You revel in your disgrace, I see' : Gives Arthur minimum Honor 
+'Balance. All is balance' : Gives Arthur neutral Honor
+'Be greedy only for foresight' : Gives Arthur Infinite Dead-Eye
+'The lucky be strong evermore' : Gives Arthur Infinite Stamina Purchase newspaper after completing Chapter 5
+'Guide me better' : Dead Eye Level 1
+'Make me better' : Dead Eye Level 2
+'I shall be better' : Dead Eye Level 3
+'I still seek more' : Dead Eye Level 4
+'I seek and I find' : Dead Eye Level 5
+'Seek all the bounty of this place' : Permanently increases Arthur’s Health, Stamina and Dead-Eye meters
+'You flourish before you die' : Fills Arthur’s Health, Stamina and Dead-Eye meters
+'You seek more than the world offers' : Fills meters and fortifies Arthur’s cores Purchase newspaper after completing "The King's Son" in Chapter 6
+'My kingdom is a horse' : Increases Arthur’s Horse Bonding level
+'Better than my dog' : Let’s Arthur call his horse from any range
+'A fool on command' : Plies Arthur with alcohol, induces drunkenness
+'Run! Run! Run!' : Spawns a race horse
+'You are a beast built for war' : Spawns a War Horse Purchase newspaper after completing the Epilogue
+'You want more than you have' : Spawns a Superior Horse (Arabian)
+'You want something new' : Spawns a random horse
+'The best of the old ways' : Spawns a stagecoach
+'Keep your dreams simple' : Spawns a wagon
+'Keep your dreams light' : Spawns a horse-drawn buggy
+'Would you be happier as a clown?' : Spawns a Circus Wagon Purchase newspaper after completing the Epilogue
+'You want punishment' : Gives Arthur a Wanted Level
+'You want freedom' : Drops Arthur’s Wanted Level
+'You want everyone to go away' : Removes Arthur’s notoriety/bounties
